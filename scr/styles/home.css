@@ -1,0 +1,40 @@
+#home {
+    display: flex;
+    min-height: calc(100vh - 94px);
+
+}
+
+#cta {
+    width: 35%;
+    display: flex;
+    flex-direction: column;
+    gap: 28px;  
+    margin-top: 5%;
+}
+
+
+#banner{
+    display: flex;
+    align-items: start;
+    justify-content: end;
+    width: 70%;
+}
+
+#banner img {
+    height: 438.5px;
+    width:438.5px;
+
+}
+
+.subtitle {
+    color: #1d1d1d;
+
+}
+
+.title {
+    font-size: 35px;
+    color: #193154;
+    
+
+}
+
